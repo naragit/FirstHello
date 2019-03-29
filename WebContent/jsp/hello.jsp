@@ -17,7 +17,8 @@
    <br>
     Select Name is : <%= request.getParameter("selname") %>
     <br>
-    <h2>  Mar 2019 End of Document </h2>
+    <h2>  Mar 2019 </h2>
+    <h3> End of Document </h3>
    
    returns filename only rather than whole path: <%= request.getParameter("upload") %>
  
